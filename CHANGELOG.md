@@ -1,3 +1,6 @@
+## 1.5.1.1, released 2014-03-16
+* Fix writing cache column
+
 ## 1.5.1, released 2012-02-18
 * Rails 2.3.1 support 
 * Gist & GoogleMap filter
